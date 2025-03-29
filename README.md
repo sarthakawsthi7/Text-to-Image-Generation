@@ -1,5 +1,10 @@
-**Text-to-Image Generation with Stable Diffusion**
+### **Text-to-Image Generation with Stable Diffusion**
+
+
+
 **Project Overview**
+
+
 This project enables Text-to-Image Generation using Stable Diffusion with ComfyUI and LoRA Checkpoints, integrated seamlessly with a Flask-based API. It allows users to generate high-quality AI-generated images based on text prompts.
 ___________ _______________________ _______________________________ __________________________________________________________ _ _ _ _ _ _ _ 
 **✨ Features**
